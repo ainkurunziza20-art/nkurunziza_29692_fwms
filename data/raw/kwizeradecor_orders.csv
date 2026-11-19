@@ -1,0 +1,502 @@
+Order_ID, Order_Date,Customer_Name,Customer_Phone,Customer_district ,Furniture_Type,Material_Name,Material_Quantity,Material_Price,Carpenter_Name,Delivery_Statu,Total_Amount_Paid
+1001,11/1/2026,Murigo Kelly ,0796425991,Gasabo,chair,Mahogany Wood,1,49000,Mechack,Pending,93500
+1002,11/2/2026,Uwase Aline,0795433636,Kicukiro,Tv stands,Pine Wood,1,48000,Elia,In production,92000
+1003,11/3/2026,Mugisha Jean,0784212452,Nyarugenge,Office table,Plywood,1,12000,Danny,Ready For Derivery,38000
+1004,11/4/2026,Uwimana Alice,0782357473,Rwamagana,Widerobe,Door Hinges,1,13000,Keve,Derivered,39500
+1005,11/5/2026,Habimana David,0789343341,Bugesera,Kitchen cabinet,Leather (Black),1,40000,Eric,Installed,80000
+1006,11/6/2026,Ineza Diane,0798255747,Kamonyi,Mirror,Foam,1,49000,Emmanuel,Pending,93500
+1007,11/7/2026,Nshimiyimana Eric,0784978581,Muhanga,Chairs,Varnish,1,22000,FISI,In production,53000
+1008,11/8/2026,Uwamahoro Clarisse,0792602817,Rulindo,Dinning table,Screws,1,21000,Mechack,Ready For Derivery,51500
+1009,11/9/2026,Munyaneza Patrick,0785312779,Gicumbi,Wallpaners,Foam,1,40000,Elia,Derivered,80000
+1010,11/10/2026,Mukamana Solange,0789945402,Musanze,Sofa,Screws,1,45000,Danny,Installed,87500
+1011,11/11/2026,Hakizimana Emmanuel,0795716145,Huye,Tv stands,Glass(TV Stands,1,24000,Keve,Pending,56000
+1012,11/12/2026,Ingabire Josiane,0783780200,Rubavu,Office table,Mahogany Wood,1,40000,Eric,In production,80000
+1013,11/13/2026,Bizimana Claude,0794218923,Nyamata,Widerobe,Pine Wood,1,19000,Emmanuel,Ready For Derivery,48500
+1014,11/14/2026,Umutoni Sandrine,0796045816,Gasabo,Kitchen cabinet,Plywood,1,49000,FISI,Derivered,93500
+1015,11/15/2026,Ndayisaba Innocent,0798236133,Kicukiro,Mirror,Door Hinges,1,15000,Mechack,Installed,42500
+1016,11/16/2026,Uwera Divine,0789654886,Nyarugenge,Chairs,Leather (Black),1,12000,Elia,Pending,38000
+1017,11/17/2026,Mutabazi Olivier,0792378475,Rwamagana,Dinning table,Foam,1,17000,Danny,In production,45500
+1018,11/18/2026,Nyiransabimana Vestine,0794499129,Bugesera,Sofa,Mahogany Wood,1,12000,Keve,Ready For Derivery,38000
+1019,11/19/2026,Gasana Thierry,0799481804,Kamonyi,Tv stands,Pine Wood,1,41000,Eric,Derivered,81500
+1020,11/20/2026,Iradukunda Bella,0787409424,Muhanga,Office table,Plywood,1,30000,Emmanuel,Installed,65000
+1021,11/21/2026,Byiringiro Fabrice,0785297203,Rulindo,Widerobe,Door Hinges,1,26000,FISI,Pending,59000
+1022,11/22/2026,Tuyishime Peace,0798088823,Gicumbi,Kitchen cabinet,Leather (Black),1,49000,Mechack,In production,93500
+1023,11/23/2026,Manzi Kevin,0781464038,Musanze,Mirror,Foam,1,41000,Elia,Ready For Derivery,81500
+1024,11/24/2026,Kamikazi Yvonne,0784308481,Huye,Chairs,Varnish,1,45000,Danny,Derivered,87500
+1025,11/25/2026,Rwibutso Emmanuel,0798308019,Rubavu,Dinning table,Screws,1,20000,Keve,Installed,50000
+1026,11/26/2026,Ishimwe Olivier,0797612205,Nyamata,Wallpaners,Foam,1,46000,Eric,Pending,89000
+1027,11/27/2026,Gahigi James,0795176519,Gasabo,Sofa,Screws,1,10000,Emmanuel,In production,35000
+1028,11/28/2026,Mukandayisenga Jeannette,0783150995,Kicukiro,Tv stands,Glass(TV Stands,1,45000,FISI,Ready For Derivery,87500
+1029,11/29/2026,Ntwari Prince,0793542276,Nyarugenge,Office table,Mahogany Wood,1,25000,Mechack,Derivered,57500
+1030,11/30/2026,Kwizera Enock,0793357619,Rwamagana,Widerobe,Pine Wood,1,30000,Elia,Installed,65000
+1031,12/1/2026,Murigo Kelly ,0795703751,Bugesera,Kitchen cabinet,Plywood,1,17000,Danny,Pending,45500
+1032,12/2/2026,Uwase Aline,0788351664,Kamonyi,Mirror,Door Hinges,1,35000,Keve,In production,72500
+1033,12/3/2026,Mugisha Jean,0797534594,Muhanga,Chairs,Leather (Black),1,43000,Eric,Ready For Derivery,84500
+1034,12/4/2026,Uwimana Alice,0796105471,Rulindo,Dinning table,Foam,1,28000,Emmanuel,Derivered,62000
+1035,12/5/2026,Habimana David,0787151761,Gicumbi,Sofa,Mahogany Wood,1,10000,FISI,Installed,35000
+1036,12/6/2026,Ineza Diane,0798471046,Musanze,Tv stands,Pine Wood,1,35000,Mechack,Pending,72500
+1037,12/7/2026,Nshimiyimana Eric,0783257170,Huye,Office table,Plywood,1,38000,Elia,In production,77000
+1038,12/8/2026,Uwamahoro Clarisse,0792740978,Rubavu,Widerobe,Door Hinges,1,22000,Danny,Ready For Derivery,53000
+1039,12/9/2026,Munyaneza Patrick,0781569743,Nyamata,Kitchen cabinet,Leather (Black),1,23000,Keve,Derivered,54500
+1040,12/10/2026,Mukamana Solange,0785491764,Gasabo,Mirror,Foam,1,44000,Eric,Installed,86000
+1041,12/11/2026,Hakizimana Emmanuel,0784360702,Kicukiro,Chairs,Varnish,1,21000,Emmanuel,Pending,51500
+1042,12/12/2026,Ingabire Josiane,0788742795,Nyarugenge,Dinning table,Screws,1,16000,FISI,In production,44000
+1043,12/13/2026,Bizimana Claude,0789495560,Rwamagana,Wallpaners,Foam,1,30000,Mechack,Ready For Derivery,65000
+1044,12/14/2026,Umutoni Sandrine,0788690816,Bugesera,Sofa,Screws,1,34000,Elia,Derivered,71000
+1045,12/15/2026,Ndayisaba Innocent,0782821671,Kamonyi,Tv stands,Glass(TV Stands,1,28000,Danny,Installed,62000
+1046,12/16/2026,Uwera Divine,0792469086,Muhanga,Office table,Mahogany Wood,1,25000,Keve,Pending,57500
+1047,12/17/2026,Mutabazi Olivier,0782337203,Rulindo,Widerobe,Pine Wood,1,46000,Eric,In production,89000
+1048,12/18/2026,Nyiransabimana Vestine,0787040555,Gicumbi,Kitchen cabinet,Plywood,1,18000,Emmanuel,Ready For Derivery,47000
+1049,12/19/2026,Gasana Thierry,0785676700,Musanze,Mirror,Door Hinges,1,29000,FISI,Derivered,63500
+1050,12/20/2026,Iradukunda Bella,0785864882,Huye,Chairs,Leather (Black),1,48000,Mechack,Installed,92000
+1051,12/21/2026,Byiringiro Fabrice,0788872282,Rubavu,Dinning table,Foam,1,47000,Elia,Pending,90500
+1052,12/22/2026,Tuyishime Peace,0783513998,Nyamata,Sofa,Mahogany Wood,1,33000,Danny,In production,69500
+1053,12/23/2026,Manzi Kevin,0793252188,Gasabo,Tv stands,Pine Wood,1,32000,Keve,Ready For Derivery,68000
+1054,12/24/2026,Kamikazi Yvonne,0795087513,Kicukiro,Office table,Plywood,1,22000,Eric,Derivered,53000
+1055,12/25/2026,Rwibutso Emmanuel,0794152479,Nyarugenge,Widerobe,Door Hinges,1,30000,Emmanuel,Installed,65000
+1056,12/26/2026,Ishimwe Olivier,0786265185,Rwamagana,Kitchen cabinet,Leather (Black),1,10000,FISI,Pending,35000
+1057,12/27/2026,Gahigi James,0791339248,Bugesera,Mirror,Foam,1,46000,Mechack,In production,89000
+1058,12/28/2026,Mukandayisenga Jeannette,0794136130,Kamonyi,Chairs,Varnish,1,46000,Elia,Ready For Derivery,89000
+1059,12/29/2026,Ntwari Prince,0794804287,Muhanga,Dinning table,Screws,1,16000,Danny,Derivered,44000
+1060,12/30/2026,Kwizera Enock,0798413895,Rulindo,Wallpaners,Foam,1,50000,Keve,Installed,95000
+1061,12/31/2026,Murigo Kelly ,0798492151,Gicumbi,Sofa,Screws,1,37000,Eric,Pending,75500
+1062,1/1/2027,Uwase Aline,0783357364,Musanze,Tv stands,Glass(TV Stands,1,22000,Emmanuel,In production,53000
+1063,1/2/2027,Mugisha Jean,0785942399,Huye,Office table,Mahogany Wood,1,14000,FISI,Ready For Derivery,41000
+1064,1/3/2027,Uwimana Alice,0799334697,Rubavu,Widerobe,Pine Wood,1,20000,Mechack,Derivered,50000
+1065,1/4/2027,Habimana David,0782989237,Nyamata,Kitchen cabinet,Plywood,1,18000,Elia,Installed,47000
+1066,1/5/2027,Ineza Diane,0782061433,Gasabo,Mirror,Door Hinges,1,34000,Danny,Pending,71000
+1067,1/6/2027,Nshimiyimana Eric,0788129787,Kicukiro,Chairs,Leather (Black),1,43000,Keve,In production,84500
+1068,1/7/2027,Uwamahoro Clarisse,0791485174,Nyarugenge,Dinning table,Foam,1,21000,Eric,Ready For Derivery,51500
+1069,1/8/2027,Munyaneza Patrick,0791113005,Rwamagana,Sofa,Mahogany Wood,1,45000,Emmanuel,Derivered,87500
+1070,1/9/2027,Mukamana Solange,0797520040,Bugesera,Tv stands,Pine Wood,1,29000,FISI,Installed,63500
+1071,1/10/2027,Hakizimana Emmanuel,0793333001,Kamonyi,Office table,Plywood,1,42000,Mechack,Pending,83000
+1072,1/11/2027,Ingabire Josiane,0788547108,Muhanga,Widerobe,Door Hinges,1,50000,Elia,In production,95000
+1073,1/12/2027,Bizimana Claude,0789220763,Rulindo,Kitchen cabinet,Leather (Black),1,37000,Danny,Ready For Derivery,75500
+1074,1/13/2027,Umutoni Sandrine,0796377108,Gicumbi,Mirror,Foam,1,19000,Keve,Derivered,48500
+1075,1/14/2027,Ndayisaba Innocent,0784401348,Musanze,Chairs,Varnish,1,27000,Eric,Installed,60500
+1076,1/15/2027,Uwera Divine,0794697374,Huye,Dinning table,Screws,1,45000,Emmanuel,Pending,87500
+1077,1/16/2027,Mutabazi Olivier,0794782007,Rubavu,Wallpaners,Foam,1,39000,FISI,In production,78500
+1078,1/17/2027,Nyiransabimana Vestine,0787700281,Nyamata,Sofa,Screws,1,20000,Mechack,Ready For Derivery,50000
+1079,1/18/2027,Gasana Thierry,0783073218,Gasabo,Tv stands,Glass(TV Stands,1,20000,Elia,Derivered,50000
+1080,1/19/2027,Iradukunda Bella,0794026243,Kicukiro,Office table,Mahogany Wood,1,12000,Danny,Installed,38000
+1081,1/20/2027,Byiringiro Fabrice,0796503199,Nyarugenge,Widerobe,Pine Wood,1,27000,Keve,Pending,60500
+1082,1/21/2027,Tuyishime Peace,0797182873,Rwamagana,Kitchen cabinet,Plywood,1,37000,Eric,In production,75500
+1083,1/22/2027,Manzi Kevin,0795995255,Bugesera,Mirror,Door Hinges,1,36000,Emmanuel,Ready For Derivery,74000
+1084,1/23/2027,Kamikazi Yvonne,0789573139,Kamonyi,Chairs,Leather (Black),1,50000,FISI,Derivered,95000
+1085,1/24/2027,Rwibutso Emmanuel,0783188975,Muhanga,Dinning table,Foam,1,27000,Mechack,Installed,60500
+1086,1/25/2027,Ishimwe Olivier,0795514742,Rulindo,Sofa,Mahogany Wood,1,41000,Elia,Pending,81500
+1087,1/26/2027,Gahigi James,0782960050,Gicumbi,Tv stands,Pine Wood,1,17000,Danny,In production,45500
+1088,1/27/2027,Mukandayisenga Jeannette,0791629703,Musanze,Office table,Plywood,1,50000,Keve,Ready For Derivery,95000
+1089,1/28/2027,Ntwari Prince,0796443547,Huye,Widerobe,Door Hinges,1,14000,Eric,Derivered,41000
+1090,1/29/2027,Kwizera Enock,0781348559,Rubavu,Kitchen cabinet,Leather (Black),1,36000,Emmanuel,Installed,74000
+1091,1/30/2027,Murigo Kelly ,0782540899,Nyamata,Mirror,Foam,1,38000,FISI,Pending,77000
+1092,1/31/2027,Uwase Aline,0788789201,Gasabo,Chairs,Varnish,1,42000,Mechack,In production,83000
+1093,2/1/2027,Mugisha Jean,0791619304,Kicukiro,Dinning table,Screws,1,28000,Elia,Ready For Derivery,62000
+1094,2/2/2027,Uwimana Alice,0781892679,Nyarugenge,Wallpaners,Foam,1,17000,Danny,Derivered,45500
+1095,2/3/2027,Habimana David,0783055240,Rwamagana,Sofa,Screws,1,23000,Keve,Installed,54500
+1096,2/4/2027,Ineza Diane,0797914250,Bugesera,Tv stands,Glass(TV Stands,1,45000,Eric,Pending,87500
+1097,2/5/2027,Nshimiyimana Eric,0789104024,Kamonyi,Office table,Mahogany Wood,1,48000,Emmanuel,In production,92000
+1098,2/6/2027,Uwamahoro Clarisse,0795702139,Muhanga,Widerobe,Pine Wood,1,36000,FISI,Ready For Derivery,74000
+1099,2/7/2027,Munyaneza Patrick,0795176947,Rulindo,Kitchen cabinet,Plywood,1,27000,Mechack,Derivered,60500
+1100,2/8/2027,Mukamana Solange,0781061858,Gicumbi,Mirror,Door Hinges,1,29000,Elia,Installed,63500
+1101,2/9/2027,Hakizimana Emmanuel,0786225139,Musanze,Chairs,Leather (Black),1,40000,Danny,Pending,80000
+1102,2/10/2027,Ingabire Josiane,0793244519,Huye,Dinning table,Foam,1,34000,Keve,In production,71000
+1103,2/11/2027,Bizimana Claude,0794077748,Rubavu,Sofa,Mahogany Wood,1,50000,Eric,Ready For Derivery,95000
+1104,2/12/2027,Umutoni Sandrine,0785640522,Nyamata,Tv stands,Pine Wood,1,44000,Emmanuel,Derivered,86000
+1105,2/13/2027,Ndayisaba Innocent,0781576339,Gasabo,Office table,Plywood,1,37000,FISI,Installed,75500
+1106,2/14/2027,Uwera Divine,0793050302,Kicukiro,Widerobe,Door Hinges,1,29000,Mechack,Pending,63500
+1107,2/15/2027,Mutabazi Olivier,0784661219,Nyarugenge,Kitchen cabinet,Leather (Black),1,43000,Elia,In production,84500
+1108,2/16/2027,Nyiransabimana Vestine,0781945648,Rwamagana,Mirror,Foam,1,17000,Danny,Ready For Derivery,45500
+1109,2/17/2027,Gasana Thierry,0783200516,Bugesera,Chairs,Varnish,1,41000,Keve,Derivered,81500
+1110,2/18/2027,Iradukunda Bella,0795241966,Kamonyi,Dinning table,Screws,1,17000,Eric,Installed,45500
+1111,2/19/2027,Byiringiro Fabrice,0794229202,Muhanga,Wallpaners,Foam,1,26000,Emmanuel,Pending,59000
+1112,2/20/2027,Tuyishime Peace,0783226786,Rulindo,Sofa,Screws,1,27000,FISI,In production,60500
+1113,2/21/2027,Manzi Kevin,0797409683,Gicumbi,Tv stands,Glass(TV Stands,1,14000,Mechack,Ready For Derivery,41000
+1114,2/22/2027,Kamikazi Yvonne,0794836693,Musanze,Office table,Mahogany Wood,1,23000,Elia,Derivered,54500
+1115,2/23/2027,Rwibutso Emmanuel,0787319918,Huye,Widerobe,Pine Wood,1,32000,Danny,Installed,68000
+1116,2/24/2027,Ishimwe Olivier,0788711102,Rubavu,Kitchen cabinet,Plywood,1,48000,Keve,Pending,92000
+1117,2/25/2027,Gahigi James,0799261397,Nyamata,Mirror,Door Hinges,1,23000,Eric,In production,54500
+1118,2/26/2027,Mukandayisenga Jeannette,0786962774,Gasabo,Chairs,Leather (Black),1,16000,Emmanuel,Ready For Derivery,44000
+1119,2/27/2027,Ntwari Prince,0796792492,Kicukiro,Dinning table,Foam,1,44000,FISI,Derivered,86000
+1120,2/28/2027,Kwizera Enock,0794382295,Nyarugenge,Sofa,Mahogany Wood,1,26000,Mechack,Installed,59000
+1121,3/1/2027,Murigo Kelly ,0793892672,Rwamagana,Tv stands,Pine Wood,1,50000,Elia,Pending,95000
+1122,3/2/2027,Uwase Aline,0792563301,Bugesera,Office table,Plywood,1,22000,Danny,In production,53000
+1123,3/3/2027,Mugisha Jean,0783758064,Kamonyi,Widerobe,Door Hinges,1,42000,Keve,Ready For Derivery,83000
+1124,3/4/2027,Uwimana Alice,0788778787,Muhanga,Kitchen cabinet,Leather (Black),1,44000,Eric,Derivered,86000
+1125,3/5/2027,Habimana David,0797491920,Rulindo,Mirror,Foam,1,32000,Emmanuel,Installed,68000
+1126,3/6/2027,Ineza Diane,0797224630,Gicumbi,Chairs,Varnish,1,40000,FISI,Pending,80000
+1127,3/7/2027,Nshimiyimana Eric,0793930202,Musanze,Dinning table,Screws,1,17000,Mechack,In production,45500
+1128,3/8/2027,Uwamahoro Clarisse,0787559382,Huye,Wallpaners,Foam,1,41000,Elia,Ready For Derivery,81500
+1129,3/9/2027,Munyaneza Patrick,0793482815,Rubavu,Sofa,Screws,1,39000,Danny,Derivered,78500
+1130,3/10/2027,Mukamana Solange,0788262774,Nyamata,Tv stands,Glass(TV Stands,1,36000,Keve,Installed,74000
+1131,3/11/2027,Hakizimana Emmanuel,0782667141,Gasabo,Office table,Mahogany Wood,1,17000,Eric,Pending,45500
+1132,3/12/2027,Ingabire Josiane,0784974064,Kicukiro,Widerobe,Pine Wood,1,17000,Emmanuel,In production,45500
+1133,3/13/2027,Bizimana Claude,0783879911,Nyarugenge,Kitchen cabinet,Plywood,1,11000,FISI,Ready For Derivery,36500
+1134,3/14/2027,Umutoni Sandrine,0782666622,Rwamagana,Mirror,Door Hinges,1,12000,Mechack,Derivered,38000
+1135,3/15/2027,Ndayisaba Innocent,0795585910,Bugesera,Chairs,Leather (Black),1,39000,Elia,Installed,78500
+1136,3/16/2027,Uwera Divine,0786290136,Kamonyi,Dinning table,Foam,1,39000,Danny,Pending,78500
+1137,3/17/2027,Mutabazi Olivier,0796849131,Muhanga,Sofa,Mahogany Wood,1,17000,Keve,In production,45500
+1138,3/18/2027,Nyiransabimana Vestine,0782236547,Rulindo,Tv stands,Pine Wood,1,38000,Eric,Ready For Derivery,77000
+1139,3/19/2027,Gasana Thierry,0798466149,Gicumbi,Office table,Plywood,1,35000,Emmanuel,Derivered,72500
+1140,3/20/2027,Iradukunda Bella,0786208336,Musanze,Widerobe,Door Hinges,1,33000,FISI,Installed,69500
+1141,3/21/2027,Byiringiro Fabrice,0797291224,Huye,Kitchen cabinet,Leather (Black),1,12000,Mechack,Pending,38000
+1142,3/22/2027,Tuyishime Peace,0795949416,Rubavu,Mirror,Foam,1,49000,Elia,In production,93500
+1143,3/23/2027,Manzi Kevin,0785499305,Nyamata,Chairs,Varnish,1,49000,Danny,Ready For Derivery,93500
+1144,3/24/2027,Kamikazi Yvonne,0791361070,Gasabo,Dinning table,Screws,1,15000,Keve,Derivered,42500
+1145,3/25/2027,Rwibutso Emmanuel,0786343044,Kicukiro,Wallpaners,Foam,1,42000,Eric,Installed,83000
+1146,3/26/2027,Ishimwe Olivier,0798200387,Nyarugenge,Sofa,Screws,1,14000,Emmanuel,Pending,41000
+1147,3/27/2027,Gahigi James,0787015299,Rwamagana,Tv stands,Glass(TV Stands,1,14000,FISI,In production,41000
+1148,3/28/2027,Mukandayisenga Jeannette,0789064322,Bugesera,Office table,Mahogany Wood,1,16000,Mechack,Ready For Derivery,44000
+1149,3/29/2027,Ntwari Prince,0787250024,Kamonyi,Widerobe,Pine Wood,1,50000,Elia,Derivered,95000
+1150,3/30/2027,Kwizera Enock,0783611704,Muhanga,Kitchen cabinet,Plywood,1,26000,Danny,Installed,59000
+1151,3/31/2027,Murigo Kelly ,0789288709,Rulindo,Mirror,Door Hinges,1,13000,Keve,Pending,39500
+1152,4/1/2027,Uwase Aline,0791046283,Gicumbi,Chairs,Leather (Black),1,39000,Eric,In production,78500
+1153,4/2/2027,Mugisha Jean,0784488541,Musanze,Dinning table,Foam,1,23000,Emmanuel,Ready For Derivery,54500
+1154,4/3/2027,Uwimana Alice,0786543115,Huye,Sofa,Mahogany Wood,1,49000,FISI,Derivered,93500
+1155,4/4/2027,Habimana David,0786270772,Rubavu,Tv stands,Pine Wood,1,16000,Mechack,Installed,44000
+1156,4/5/2027,Ineza Diane,0789322604,Nyamata,Office table,Plywood,1,13000,Elia,Pending,39500
+1157,4/6/2027,Nshimiyimana Eric,0788883620,Gasabo,Widerobe,Door Hinges,1,29000,Danny,In production,63500
+1158,4/7/2027,Uwamahoro Clarisse,0792697656,Kicukiro,Kitchen cabinet,Leather (Black),1,33000,Keve,Ready For Derivery,69500
+1159,4/8/2027,Munyaneza Patrick,0791252086,Nyarugenge,Mirror,Foam,1,34000,Eric,Derivered,71000
+1160,4/9/2027,Mukamana Solange,0794841347,Rwamagana,Chairs,Varnish,1,42000,Emmanuel,Installed,83000
+1161,4/10/2027,Hakizimana Emmanuel,0785488514,Bugesera,Dinning table,Screws,1,13000,FISI,Pending,39500
+1162,4/11/2027,Ingabire Josiane,0783904516,Kamonyi,Wallpaners,Foam,1,30000,Mechack,In production,65000
+1163,4/12/2027,Bizimana Claude,0789511001,Muhanga,Sofa,Screws,1,15000,Elia,Ready For Derivery,42500
+1164,4/13/2027,Umutoni Sandrine,0796043644,Rulindo,Tv stands,Glass(TV Stands,1,48000,Danny,Derivered,92000
+1165,4/14/2027,Ndayisaba Innocent,0795928282,Gicumbi,Office table,Mahogany Wood,1,32000,Keve,Installed,68000
+1166,4/15/2027,Uwera Divine,0783407659,Musanze,Widerobe,Pine Wood,1,18000,Eric,Pending,47000
+1167,4/16/2027,Mutabazi Olivier,0785498090,Huye,Kitchen cabinet,Plywood,1,33000,Emmanuel,In production,69500
+1168,4/17/2027,Nyiransabimana Vestine,0783888857,Rubavu,Mirror,Door Hinges,1,27000,FISI,Ready For Derivery,60500
+1169,4/18/2027,Gasana Thierry,0799634772,Nyamata,Chairs,Leather (Black),1,27000,Mechack,Derivered,60500
+1170,4/19/2027,Iradukunda Bella,0798351085,Gasabo,Dinning table,Foam,1,34000,Elia,Installed,71000
+1171,4/20/2027,Byiringiro Fabrice,0796782872,Kicukiro,Sofa,Mahogany Wood,1,12000,Danny,Pending,38000
+1172,4/21/2027,Tuyishime Peace,0785187756,Nyarugenge,Tv stands,Pine Wood,1,37000,Keve,In production,75500
+1173,4/22/2027,Manzi Kevin,0783850156,Rwamagana,Office table,Plywood,1,50000,Eric,Ready For Derivery,95000
+1174,4/23/2027,Kamikazi Yvonne,0782979307,Bugesera,Widerobe,Door Hinges,1,10000,Emmanuel,Derivered,35000
+1175,4/24/2027,Rwibutso Emmanuel,0781623551,Kamonyi,Kitchen cabinet,Leather (Black),1,36000,FISI,Installed,74000
+1176,4/25/2027,Ishimwe Olivier,0786187805,Muhanga,Mirror,Foam,1,23000,Mechack,Pending,54500
+1177,4/26/2027,Gahigi James,0797665945,Rulindo,Chairs,Varnish,1,13000,Elia,In production,39500
+1178,4/27/2027,Mukandayisenga Jeannette,0786758481,Gicumbi,Dinning table,Screws,1,23000,Danny,Ready For Derivery,54500
+1179,4/28/2027,Ntwari Prince,0786380620,Musanze,Wallpaners,Foam,1,42000,Keve,Derivered,83000
+1180,4/29/2027,Kwizera Enock,0791424424,Huye,Sofa,Screws,1,30000,Eric,Installed,65000
+1181,4/30/2027,Murigo Kelly ,0783902178,Rubavu,Tv stands,Glass(TV Stands,1,20000,Emmanuel,Pending,50000
+1182,5/1/2027,Uwase Aline,0784107925,Nyamata,Office table,Mahogany Wood,1,24000,FISI,In production,56000
+1183,5/2/2027,Mugisha Jean,0795851896,Gasabo,Widerobe,Pine Wood,1,34000,Mechack,Ready For Derivery,71000
+1184,5/3/2027,Uwimana Alice,0784793526,Kicukiro,Kitchen cabinet,Plywood,1,18000,Elia,Derivered,47000
+1185,5/4/2027,Habimana David,0785309191,Nyarugenge,Mirror,Door Hinges,1,33000,Danny,Installed,69500
+1186,5/5/2027,Ineza Diane,0793959038,Rwamagana,Chairs,Leather (Black),1,43000,Keve,Pending,84500
+1187,5/6/2027,Nshimiyimana Eric,0783127742,Bugesera,Dinning table,Foam,1,30000,Eric,In production,65000
+1188,5/7/2027,Uwamahoro Clarisse,0787319479,Kamonyi,Sofa,Mahogany Wood,1,12000,Emmanuel,Ready For Derivery,38000
+1189,5/8/2027,Munyaneza Patrick,0784064867,Muhanga,Tv stands,Pine Wood,1,14000,FISI,Derivered,41000
+1190,5/9/2027,Mukamana Solange,0795628116,Rulindo,Office table,Plywood,1,16000,Mechack,Installed,44000
+1191,5/10/2027,Hakizimana Emmanuel,0784765711,Gicumbi,Widerobe,Door Hinges,1,31000,Elia,Pending,66500
+1192,5/11/2027,Ingabire Josiane,0782207183,Musanze,Kitchen cabinet,Leather (Black),1,36000,Danny,In production,74000
+1193,5/12/2027,Bizimana Claude,0783922009,Huye,Mirror,Foam,1,38000,Keve,Ready For Derivery,77000
+1194,5/13/2027,Umutoni Sandrine,0784659935,Rubavu,Chairs,Varnish,1,48000,Eric,Derivered,92000
+1195,5/14/2027,Ndayisaba Innocent,0799806794,Nyamata,Dinning table,Screws,1,14000,Emmanuel,Installed,41000
+1196,5/15/2027,Uwera Divine,0784910276,Gasabo,Wallpaners,Foam,1,20000,FISI,Pending,50000
+1197,5/16/2027,Mutabazi Olivier,0795295574,Kicukiro,Sofa,Screws,1,12000,Mechack,In production,38000
+1198,5/17/2027,Nyiransabimana Vestine,0795506919,Nyarugenge,Tv stands,Glass(TV Stands,1,25000,Elia,Ready For Derivery,57500
+1199,5/18/2027,Gasana Thierry,0792312020,Rwamagana,Office table,Mahogany Wood,1,35000,Danny,Derivered,72500
+1200,5/19/2027,Iradukunda Bella,0782398612,Bugesera,Widerobe,Pine Wood,1,26000,Keve,Installed,59000
+1201,5/20/2027,Byiringiro Fabrice,0786404889,Kamonyi,Kitchen cabinet,Plywood,1,34000,Eric,Pending,71000
+1202,5/21/2027,Tuyishime Peace,0783367912,Muhanga,Mirror,Door Hinges,1,27000,Emmanuel,In production,60500
+1203,5/22/2027,Manzi Kevin,0791199313,Rulindo,Chairs,Leather (Black),1,14000,FISI,Ready For Derivery,41000
+1204,5/23/2027,Kamikazi Yvonne,0791536853,Gicumbi,Dinning table,Foam,1,46000,Mechack,Derivered,89000
+1205,5/24/2027,Rwibutso Emmanuel,0798930722,Musanze,Sofa,Mahogany Wood,1,26000,Elia,Installed,59000
+1206,5/25/2027,Ishimwe Olivier,0785544091,Huye,Tv stands,Pine Wood,1,33000,Danny,Pending,69500
+1207,5/26/2027,Gahigi James,0787284104,Rubavu,Office table,Plywood,1,30000,Keve,In production,65000
+1208,5/27/2027,Mukandayisenga Jeannette,0799235687,Nyamata,Widerobe,Door Hinges,1,48000,Eric,Ready For Derivery,92000
+1209,5/28/2027,Ntwari Prince,0787797222,Gasabo,Kitchen cabinet,Leather (Black),1,19000,Emmanuel,Derivered,48500
+1210,5/29/2027,Kwizera Enock,0791227105,Kicukiro,Mirror,Foam,1,13000,FISI,Installed,39500
+1211,5/30/2027,Murigo Kelly ,0782409433,Nyarugenge,Chairs,Varnish,1,15000,Mechack,Pending,42500
+1212,5/31/2027,Uwase Aline,0789764572,Rwamagana,Dinning table,Screws,1,36000,Elia,In production,74000
+1213,6/1/2027,Mugisha Jean,0792684819,Bugesera,Wallpaners,Foam,1,33000,Danny,Ready For Derivery,69500
+1214,6/2/2027,Uwimana Alice,0793405820,Kamonyi,Sofa,Screws,1,14000,Keve,Derivered,41000
+1215,6/3/2027,Habimana David,0783482595,Muhanga,Tv stands,Glass(TV Stands,1,24000,Eric,Installed,56000
+1216,6/4/2027,Ineza Diane,0782248811,Rulindo,Office table,Mahogany Wood,1,22000,Emmanuel,Pending,53000
+1217,6/5/2027,Nshimiyimana Eric,0797500618,Gicumbi,Widerobe,Pine Wood,1,31000,FISI,In production,66500
+1218,6/6/2027,Uwamahoro Clarisse,0792928716,Musanze,Kitchen cabinet,Plywood,1,17000,Mechack,Ready For Derivery,45500
+1219,6/7/2027,Munyaneza Patrick,0791699881,Huye,Mirror,Door Hinges,1,28000,Elia,Derivered,62000
+1220,6/8/2027,Mukamana Solange,0792406532,Rubavu,Chairs,Leather (Black),1,18000,Danny,Installed,47000
+1221,6/9/2027,Hakizimana Emmanuel,0781251657,Nyamata,Dinning table,Foam,1,18000,Keve,Pending,47000
+1222,6/10/2027,Ingabire Josiane,0789262436,Gasabo,Sofa,Mahogany Wood,1,47000,Eric,In production,90500
+1223,6/11/2027,Bizimana Claude,0795890918,Kicukiro,Tv stands,Pine Wood,1,19000,Emmanuel,Ready For Derivery,48500
+1224,6/12/2027,Umutoni Sandrine,0793892846,Nyarugenge,Office table,Plywood,1,31000,FISI,Derivered,66500
+1225,6/13/2027,Ndayisaba Innocent,0781409287,Rwamagana,Widerobe,Door Hinges,1,38000,Mechack,Installed,77000
+1226,6/14/2027,Uwera Divine,0785882784,Bugesera,Kitchen cabinet,Leather (Black),1,33000,Elia,Pending,69500
+1227,6/15/2027,Mutabazi Olivier,0783011147,Kamonyi,Mirror,Foam,1,10000,Danny,In production,35000
+1228,6/16/2027,Nyiransabimana Vestine,0799447927,Muhanga,Chairs,Varnish,1,23000,Keve,Ready For Derivery,54500
+1229,6/17/2027,Gasana Thierry,0783265541,Rulindo,Dinning table,Screws,1,10000,Eric,Derivered,35000
+1230,6/18/2027,Iradukunda Bella,0799195154,Gicumbi,Wallpaners,Foam,1,16000,Emmanuel,Installed,44000
+1231,6/19/2027,Byiringiro Fabrice,0799429872,Musanze,Sofa,Screws,1,31000,FISI,Pending,66500
+1232,6/20/2027,Tuyishime Peace,0799631633,Huye,Tv stands,Glass(TV Stands,1,44000,Mechack,In production,86000
+1233,6/21/2027,Manzi Kevin,0797357397,Rubavu,Office table,Mahogany Wood,1,41000,Elia,Ready For Derivery,81500
+1234,6/22/2027,Kamikazi Yvonne,0781000123,Nyamata,Widerobe,Pine Wood,1,39000,Danny,Derivered,78500
+1235,6/23/2027,Rwibutso Emmanuel,0787374573,Gasabo,Kitchen cabinet,Plywood,1,44000,Keve,Installed,86000
+1236,6/24/2027,Ishimwe Olivier,0797710959,Kicukiro,Mirror,Door Hinges,1,48000,Eric,Pending,92000
+1237,6/25/2027,Gahigi James,0792710972,Nyarugenge,Chairs,Leather (Black),1,34000,Emmanuel,In production,71000
+1238,6/26/2027,Mukandayisenga Jeannette,0799012447,Rwamagana,Dinning table,Foam,1,13000,FISI,Ready For Derivery,39500
+1239,6/27/2027,Ntwari Prince,0782513235,Bugesera,Sofa,Mahogany Wood,1,36000,Mechack,Derivered,74000
+1240,6/28/2027,Kwizera Enock,0797934384,Kamonyi,Tv stands,Pine Wood,1,18000,Elia,Installed,47000
+1241,6/29/2027,Murigo Kelly ,0792950245,Muhanga,Office table,Plywood,1,30000,Danny,Pending,65000
+1242,6/30/2027,Uwase Aline,0792264404,Rulindo,Widerobe,Door Hinges,1,13000,Keve,In production,39500
+1243,7/1/2027,Mugisha Jean,0791195696,Gicumbi,Kitchen cabinet,Leather (Black),1,35000,Eric,Ready For Derivery,72500
+1244,7/2/2027,Uwimana Alice,0788214494,Musanze,Mirror,Foam,1,49000,Emmanuel,Derivered,93500
+1245,7/3/2027,Habimana David,0784361065,Huye,Chairs,Varnish,1,13000,FISI,Installed,39500
+1246,7/4/2027,Ineza Diane,0781561042,Rubavu,Dinning table,Screws,1,18000,Mechack,Pending,47000
+1247,7/5/2027,Nshimiyimana Eric,0781366125,Nyamata,Wallpaners,Foam,1,39000,Elia,In production,78500
+1248,7/6/2027,Uwamahoro Clarisse,0786205922,Gasabo,Sofa,Screws,1,32000,Danny,Ready For Derivery,68000
+1249,7/7/2027,Munyaneza Patrick,0793957739,Kicukiro,Tv stands,Glass(TV Stands,1,48000,Keve,Derivered,92000
+1250,7/8/2027,Mukamana Solange,0795567276,Nyarugenge,Office table,Mahogany Wood,1,21000,Eric,Installed,51500
+1251,7/9/2027,Hakizimana Emmanuel,0787011636,Rwamagana,Widerobe,Pine Wood,1,23000,Emmanuel,Pending,54500
+1252,7/10/2027,Ingabire Josiane,0793732356,Bugesera,Kitchen cabinet,Plywood,1,28000,FISI,In production,62000
+1253,7/11/2027,Bizimana Claude,0791579267,Kamonyi,Mirror,Door Hinges,1,15000,Mechack,Ready For Derivery,42500
+1254,7/12/2027,Umutoni Sandrine,0783212406,Muhanga,Chairs,Leather (Black),1,20000,Elia,Derivered,50000
+1255,7/13/2027,Ndayisaba Innocent,0798228551,Rulindo,Dinning table,Foam,1,31000,Danny,Installed,66500
+1256,7/14/2027,Uwera Divine,0783648145,Gicumbi,Sofa,Mahogany Wood,1,12000,Keve,Pending,38000
+1257,7/15/2027,Mutabazi Olivier,0796246864,Musanze,Tv stands,Pine Wood,1,45000,Eric,In production,87500
+1258,7/16/2027,Nyiransabimana Vestine,0784482035,Huye,Office table,Plywood,1,24000,Emmanuel,Ready For Derivery,56000
+1259,7/17/2027,Gasana Thierry,0788763798,Rubavu,Widerobe,Door Hinges,1,29000,FISI,Derivered,63500
+1260,7/18/2027,Iradukunda Bella,0789265830,Nyamata,Kitchen cabinet,Leather (Black),1,32000,Mechack,Installed,68000
+1261,7/19/2027,Byiringiro Fabrice,0799299267,Gasabo,Mirror,Foam,1,30000,Elia,Pending,65000
+1262,7/20/2027,Tuyishime Peace,0792445144,Kicukiro,Chairs,Varnish,1,44000,Danny,In production,86000
+1263,7/21/2027,Manzi Kevin,0789902136,Nyarugenge,Dinning table,Screws,1,46000,Keve,Ready For Derivery,89000
+1264,7/22/2027,Kamikazi Yvonne,0797345200,Rwamagana,Wallpaners,Foam,1,47000,Eric,Derivered,90500
+1265,7/23/2027,Rwibutso Emmanuel,0785348099,Bugesera,Sofa,Screws,1,29000,Emmanuel,Installed,63500
+1266,7/24/2027,Ishimwe Olivier,0785472148,Kamonyi,Tv stands,Glass(TV Stands,1,25000,FISI,Pending,57500
+1267,7/25/2027,Gahigi James,0792796169,Muhanga,Office table,Mahogany Wood,1,43000,Mechack,In production,84500
+1268,7/26/2027,Mukandayisenga Jeannette,0792798318,Rulindo,Widerobe,Pine Wood,1,39000,Elia,Ready For Derivery,78500
+1269,7/27/2027,Ntwari Prince,0783306130,Gicumbi,Kitchen cabinet,Plywood,1,19000,Danny,Derivered,48500
+1270,7/28/2027,Kwizera Enock,0784992371,Musanze,Mirror,Door Hinges,1,43000,Keve,Installed,84500
+1271,7/29/2027,Murigo Kelly ,0792715254,Huye,Chairs,Leather (Black),1,48000,Eric,Pending,92000
+1272,7/30/2027,Uwase Aline,0789687026,Rubavu,Dinning table,Foam,1,31000,Emmanuel,In production,66500
+1273,7/31/2027,Mugisha Jean,0791544353,Nyamata,Sofa,Mahogany Wood,1,44000,FISI,Ready For Derivery,86000
+1274,8/1/2027,Uwimana Alice,0792077576,Gasabo,Tv stands,Pine Wood,1,16000,Mechack,Derivered,44000
+1275,8/2/2027,Habimana David,0793787798,Kicukiro,Office table,Plywood,1,37000,Elia,Installed,75500
+1276,8/3/2027,Ineza Diane,0784752096,Nyarugenge,Widerobe,Door Hinges,1,13000,Danny,Pending,39500
+1277,8/4/2027,Nshimiyimana Eric,0788713544,Rwamagana,Kitchen cabinet,Leather (Black),1,28000,Keve,In production,62000
+1278,8/5/2027,Uwamahoro Clarisse,0791063327,Bugesera,Mirror,Foam,1,30000,Eric,Ready For Derivery,65000
+1279,8/6/2027,Munyaneza Patrick,0798829182,Kamonyi,Chairs,Varnish,1,34000,Emmanuel,Derivered,71000
+1280,8/7/2027,Mukamana Solange,0792926476,Muhanga,Dinning table,Screws,1,22000,FISI,Installed,53000
+1281,8/8/2027,Hakizimana Emmanuel,0781183830,Rulindo,Wallpaners,Foam,1,12000,Mechack,Pending,38000
+1282,8/9/2027,Ingabire Josiane,0788864514,Gicumbi,Sofa,Screws,1,42000,Elia,In production,83000
+1283,8/10/2027,Bizimana Claude,0788212480,Musanze,Tv stands,Glass(TV Stands,1,16000,Danny,Ready For Derivery,44000
+1284,8/11/2027,Umutoni Sandrine,0797289234,Huye,Office table,Mahogany Wood,1,44000,Keve,Derivered,86000
+1285,8/12/2027,Ndayisaba Innocent,0793226282,Rubavu,Widerobe,Pine Wood,1,22000,Eric,Installed,53000
+1286,8/13/2027,Uwera Divine,0787050576,Nyamata,Kitchen cabinet,Plywood,1,10000,Emmanuel,Pending,35000
+1287,8/14/2027,Mutabazi Olivier,0789379048,Gasabo,Mirror,Door Hinges,1,30000,FISI,In production,65000
+1288,8/15/2027,Nyiransabimana Vestine,0786805297,Kicukiro,Chairs,Leather (Black),1,43000,Mechack,Ready For Derivery,84500
+1289,8/16/2027,Gasana Thierry,0791839087,Nyarugenge,Dinning table,Foam,1,33000,Elia,Derivered,69500
+1290,8/17/2027,Iradukunda Bella,0792183027,Rwamagana,Sofa,Mahogany Wood,1,27000,Danny,Installed,60500
+1291,8/18/2027,Byiringiro Fabrice,0786227291,Bugesera,Tv stands,Pine Wood,1,47000,Keve,Pending,90500
+1292,8/19/2027,Tuyishime Peace,0798044822,Kamonyi,Office table,Plywood,1,25000,Eric,In production,57500
+1293,8/20/2027,Manzi Kevin,0799709531,Muhanga,Widerobe,Door Hinges,1,12000,Emmanuel,Ready For Derivery,38000
+1294,8/21/2027,Kamikazi Yvonne,0793644578,Rulindo,Kitchen cabinet,Leather (Black),1,45000,FISI,Derivered,87500
+1295,8/22/2027,Rwibutso Emmanuel,0795887257,Gicumbi,Mirror,Foam,1,10000,Mechack,Installed,35000
+1296,8/23/2027,Ishimwe Olivier,0781845318,Musanze,Chairs,Varnish,1,21000,Elia,Pending,51500
+1297,8/24/2027,Gahigi James,0794491578,Huye,Dinning table,Screws,1,19000,Danny,In production,48500
+1298,8/25/2027,Mukandayisenga Jeannette,0796789160,Rubavu,Wallpaners,Foam,1,23000,Keve,Ready For Derivery,54500
+1299,8/26/2027,Ntwari Prince,0788200238,Nyamata,Sofa,Screws,1,22000,Eric,Derivered,53000
+1300,8/27/2027,Kwizera Enock,0799311509,Gasabo,Tv stands,Glass(TV Stands,1,14000,Emmanuel,Installed,41000
+1301,8/28/2027,Murigo Kelly ,0794381339,Kicukiro,Office table,Mahogany Wood,1,30000,FISI,Pending,65000
+1302,8/29/2027,Uwase Aline,0787743390,Nyarugenge,Widerobe,Pine Wood,1,38000,Mechack,In production,77000
+1303,8/30/2027,Mugisha Jean,0785663135,Rwamagana,Kitchen cabinet,Plywood,1,40000,Elia,Ready For Derivery,80000
+1304,8/31/2027,Uwimana Alice,0797957683,Bugesera,Mirror,Door Hinges,1,47000,Danny,Derivered,90500
+1305,9/1/2027,Habimana David,0786443293,Kamonyi,Chairs,Leather (Black),1,50000,Keve,Installed,95000
+1306,9/2/2027,Ineza Diane,0786148182,Muhanga,Dinning table,Foam,1,23000,Eric,Pending,54500
+1307,9/3/2027,Nshimiyimana Eric,0791412551,Rulindo,Sofa,Mahogany Wood,1,10000,Emmanuel,In production,35000
+1308,9/4/2027,Uwamahoro Clarisse,0793161632,Gicumbi,Tv stands,Pine Wood,1,22000,FISI,Ready For Derivery,53000
+1309,9/5/2027,Munyaneza Patrick,0792710866,Musanze,Office table,Plywood,1,30000,Mechack,Derivered,65000
+1310,9/6/2027,Mukamana Solange,0791034696,Huye,Widerobe,Door Hinges,1,31000,Elia,Installed,66500
+1311,9/7/2027,Hakizimana Emmanuel,0783991264,Rubavu,Kitchen cabinet,Leather (Black),1,28000,Danny,Pending,62000
+1312,9/8/2027,Ingabire Josiane,0787107729,Nyamata,Mirror,Foam,1,15000,Keve,In production,42500
+1313,9/9/2027,Bizimana Claude,0793713916,Gasabo,Chairs,Varnish,1,12000,Eric,Ready For Derivery,38000
+1314,9/10/2027,Umutoni Sandrine,0796517626,Kicukiro,Dinning table,Screws,1,10000,Emmanuel,Derivered,35000
+1315,9/11/2027,Ndayisaba Innocent,0783785628,Nyarugenge,Wallpaners,Foam,1,35000,FISI,Installed,72500
+1316,9/12/2027,Uwera Divine,0785070472,Rwamagana,Sofa,Screws,1,44000,Mechack,Pending,86000
+1317,9/13/2027,Mutabazi Olivier,0788028855,Bugesera,Tv stands,Glass(TV Stands,1,13000,Elia,In production,39500
+1318,9/14/2027,Nyiransabimana Vestine,0795880011,Kamonyi,Office table,Mahogany Wood,1,16000,Danny,Ready For Derivery,44000
+1319,9/15/2027,Gasana Thierry,0796201397,Muhanga,Widerobe,Pine Wood,1,37000,Keve,Derivered,75500
+1320,9/16/2027,Iradukunda Bella,0791836864,Rulindo,Kitchen cabinet,Plywood,1,21000,Eric,Installed,51500
+1321,9/17/2027,Byiringiro Fabrice,0788505549,Gicumbi,Mirror,Door Hinges,1,45000,Emmanuel,Pending,87500
+1322,9/18/2027,Tuyishime Peace,0782234624,Musanze,Chairs,Leather (Black),1,32000,FISI,In production,68000
+1323,9/19/2027,Manzi Kevin,0786693466,Huye,Dinning table,Foam,1,19000,Mechack,Ready For Derivery,48500
+1324,9/20/2027,Kamikazi Yvonne,0789359758,Rubavu,Sofa,Mahogany Wood,1,23000,Elia,Derivered,54500
+1325,9/21/2027,Rwibutso Emmanuel,0788986288,Nyamata,Tv stands,Pine Wood,1,33000,Danny,Installed,69500
+1326,9/22/2027,Ishimwe Olivier,0795625716,Gasabo,Office table,Plywood,1,37000,Keve,Pending,75500
+1327,9/23/2027,Gahigi James,0791371543,Kicukiro,Widerobe,Door Hinges,1,33000,Eric,In production,69500
+1328,9/24/2027,Mukandayisenga Jeannette,0797954256,Nyarugenge,Kitchen cabinet,Leather (Black),1,20000,Emmanuel,Ready For Derivery,50000
+1329,9/25/2027,Ntwari Prince,0797370651,Rwamagana,Mirror,Foam,1,12000,FISI,Derivered,38000
+1330,9/26/2027,Kwizera Enock,0784346506,Bugesera,Chairs,Varnish,1,16000,Mechack,Installed,44000
+1331,9/27/2027,Murigo Kelly ,0786873660,Kamonyi,Dinning table,Screws,1,18000,Elia,Pending,47000
+1332,9/28/2027,Uwase Aline,0792211545,Muhanga,Wallpaners,Foam,1,17000,Danny,In production,45500
+1333,9/29/2027,Mugisha Jean,0792873152,Rulindo,Sofa,Screws,1,44000,Keve,Ready For Derivery,86000
+1334,9/30/2027,Uwimana Alice,0782255107,Gicumbi,Tv stands,Glass(TV Stands,1,29000,Eric,Derivered,63500
+1335,10/1/2027,Habimana David,0792989631,Musanze,Office table,Mahogany Wood,1,22000,Emmanuel,Installed,53000
+1336,10/2/2027,Ineza Diane,0791557197,Huye,Widerobe,Pine Wood,1,40000,FISI,Pending,80000
+1337,10/3/2027,Nshimiyimana Eric,0798723614,Rubavu,Kitchen cabinet,Plywood,1,21000,Mechack,In production,51500
+1338,10/4/2027,Uwamahoro Clarisse,0781719495,Nyamata,Mirror,Door Hinges,1,42000,Elia,Ready For Derivery,83000
+1339,10/5/2027,Munyaneza Patrick,0785414273,Gasabo,Chairs,Leather (Black),1,48000,Danny,Derivered,92000
+1340,10/6/2027,Mukamana Solange,0788693466,Kicukiro,Dinning table,Foam,1,40000,Keve,Installed,80000
+1341,10/7/2027,Hakizimana Emmanuel,0784004214,Nyarugenge,Sofa,Mahogany Wood,1,48000,Eric,Pending,92000
+1342,10/8/2027,Ingabire Josiane,0796200407,Rwamagana,Tv stands,Pine Wood,1,22000,Emmanuel,In production,53000
+1343,10/9/2027,Bizimana Claude,0788370546,Bugesera,Office table,Plywood,1,26000,FISI,Ready For Derivery,59000
+1344,10/10/2027,Umutoni Sandrine,0782317170,Kamonyi,Widerobe,Door Hinges,1,23000,Mechack,Derivered,54500
+1345,10/11/2027,Ndayisaba Innocent,0782431093,Muhanga,Kitchen cabinet,Leather (Black),1,13000,Elia,Installed,39500
+1346,10/12/2027,Uwera Divine,0796196651,Rulindo,Mirror,Foam,1,28000,Danny,Pending,62000
+1347,10/13/2027,Mutabazi Olivier,0795451083,Gicumbi,Chairs,Varnish,1,25000,Keve,In production,57500
+1348,10/14/2027,Nyiransabimana Vestine,0782266299,Musanze,Dinning table,Screws,1,32000,Eric,Ready For Derivery,68000
+1349,10/15/2027,Gasana Thierry,0785898918,Huye,Wallpaners,Foam,1,30000,Emmanuel,Derivered,65000
+1350,10/16/2027,Iradukunda Bella,0799997135,Rubavu,Sofa,Screws,1,33000,FISI,Installed,69500
+1351,10/17/2027,Byiringiro Fabrice,0782371124,Nyamata,Tv stands,Glass(TV Stands,1,29000,Mechack,Pending,63500
+1352,10/18/2027,Tuyishime Peace,0794984698,Gasabo,Office table,Mahogany Wood,1,44000,Elia,In production,86000
+1353,10/19/2027,Manzi Kevin,0792735905,Kicukiro,Widerobe,Pine Wood,1,27000,Danny,Ready For Derivery,60500
+1354,10/20/2027,Kamikazi Yvonne,0791688328,Nyarugenge,Kitchen cabinet,Plywood,1,22000,Keve,Derivered,53000
+1355,10/21/2027,Rwibutso Emmanuel,0795412283,Rwamagana,Mirror,Door Hinges,1,41000,Eric,Installed,81500
+1356,10/22/2027,Ishimwe Olivier,0783535528,Bugesera,Chairs,Leather (Black),1,14000,Emmanuel,Pending,41000
+1357,10/23/2027,Gahigi James,0798199405,Kamonyi,Dinning table,Foam,1,43000,FISI,In production,84500
+1358,10/24/2027,Mukandayisenga Jeannette,0798975126,Muhanga,Sofa,Mahogany Wood,1,44000,Mechack,Ready For Derivery,86000
+1359,10/25/2027,Ntwari Prince,0796373466,Rulindo,Tv stands,Pine Wood,1,49000,Elia,Derivered,93500
+1360,10/26/2027,Kwizera Enock,0786459472,Gicumbi,Office table,Plywood,1,38000,Danny,Installed,77000
+1361,10/27/2027,Murigo Kelly ,0798113395,Musanze,Widerobe,Door Hinges,1,25000,Keve,Pending,57500
+1362,10/28/2027,Uwase Aline,0794459505,Huye,Kitchen cabinet,Leather (Black),1,41000,Eric,In production,81500
+1363,10/29/2027,Mugisha Jean,0782131084,Rubavu,Mirror,Foam,1,23000,Emmanuel,Ready For Derivery,54500
+1364,10/30/2027,Uwimana Alice,0795051785,Nyamata,Chairs,Varnish,1,33000,FISI,Derivered,69500
+1365,10/31/2027,Habimana David,0786704929,Gasabo,Dinning table,Screws,1,46000,Mechack,Installed,89000
+1366,11/1/2027,Ineza Diane,0789318764,Kicukiro,Wallpaners,Foam,1,15000,Elia,Pending,42500
+1367,11/2/2027,Nshimiyimana Eric,0795572981,Nyarugenge,Sofa,Screws,1,38000,Danny,In production,77000
+1368,11/3/2027,Uwamahoro Clarisse,0795115220,Rwamagana,Tv stands,Glass(TV Stands,1,43000,Keve,Ready For Derivery,84500
+1369,11/4/2027,Munyaneza Patrick,0792929628,Bugesera,Office table,Mahogany Wood,1,35000,Eric,Derivered,72500
+1370,11/5/2027,Mukamana Solange,0791228458,Kamonyi,Widerobe,Pine Wood,1,41000,Emmanuel,Installed,81500
+1371,11/6/2027,Hakizimana Emmanuel,0788209111,Muhanga,Kitchen cabinet,Plywood,1,42000,FISI,Pending,83000
+1372,11/7/2027,Ingabire Josiane,0797047314,Rulindo,Mirror,Door Hinges,1,47000,Mechack,In production,90500
+1373,11/8/2027,Bizimana Claude,0797049799,Gicumbi,Chairs,Leather (Black),1,38000,Elia,Ready For Derivery,77000
+1374,11/9/2027,Umutoni Sandrine,0796764157,Musanze,Dinning table,Foam,1,34000,Danny,Derivered,71000
+1375,11/10/2027,Ndayisaba Innocent,0791166598,Huye,Sofa,Mahogany Wood,1,43000,Keve,Installed,84500
+1376,11/11/2027,Uwera Divine,0783607707,Rubavu,Tv stands,Pine Wood,1,19000,Eric,Pending,48500
+1377,11/12/2027,Mutabazi Olivier,0799919301,Nyamata,Office table,Plywood,1,27000,Emmanuel,In production,60500
+1378,11/13/2027,Nyiransabimana Vestine,0792814665,Gasabo,Widerobe,Door Hinges,1,16000,FISI,Ready For Derivery,44000
+1379,11/14/2027,Gasana Thierry,0784129229,Kicukiro,Kitchen cabinet,Leather (Black),1,34000,Mechack,Derivered,71000
+1380,11/15/2027,Iradukunda Bella,0795555632,Nyarugenge,Mirror,Foam,1,29000,Elia,Installed,63500
+1381,11/16/2027,Byiringiro Fabrice,0791489669,Rwamagana,Chairs,Varnish,1,22000,Danny,Pending,53000
+1382,11/17/2027,Tuyishime Peace,0791432495,Bugesera,Dinning table,Screws,1,17000,Keve,In production,45500
+1383,11/18/2027,Manzi Kevin,0788344628,Kamonyi,Wallpaners,Foam,1,49000,Eric,Ready For Derivery,93500
+1384,11/19/2027,Kamikazi Yvonne,0797121137,Muhanga,Sofa,Screws,1,25000,Emmanuel,Derivered,57500
+1385,11/20/2027,Rwibutso Emmanuel,0783933139,Rulindo,Tv stands,Glass(TV Stands,1,39000,FISI,Installed,78500
+1386,11/21/2027,Ishimwe Olivier,0792059575,Gicumbi,Office table,Mahogany Wood,1,23000,Mechack,Pending,54500
+1387,11/22/2027,Gahigi James,0781912617,Musanze,Widerobe,Pine Wood,1,10000,Elia,In production,35000
+1388,11/23/2027,Mukandayisenga Jeannette,0784544673,Huye,Kitchen cabinet,Plywood,1,17000,Danny,Ready For Derivery,45500
+1389,11/24/2027,Ntwari Prince,0794932014,Rubavu,Mirror,Door Hinges,1,39000,Keve,Derivered,78500
+1390,11/25/2027,Kwizera Enock,0793956264,Nyamata,Chairs,Leather (Black),1,21000,Eric,Installed,51500
+1391,11/26/2027,Murigo Kelly ,0788200211,Gasabo,Dinning table,Foam,1,40000,Emmanuel,Pending,80000
+1392,11/27/2027,Uwase Aline,0785998189,Kicukiro,Sofa,Mahogany Wood,1,12000,FISI,In production,38000
+1393,11/28/2027,Mugisha Jean,0786497764,Nyarugenge,Tv stands,Pine Wood,1,31000,Mechack,Ready For Derivery,66500
+1394,11/29/2027,Uwimana Alice,0789517457,Rwamagana,Office table,Plywood,1,25000,Elia,Derivered,57500
+1395,11/30/2027,Habimana David,0794032836,Bugesera,Widerobe,Door Hinges,1,20000,Danny,Installed,50000
+1396,12/1/2027,Ineza Diane,0789783866,Kamonyi,Kitchen cabinet,Leather (Black),1,25000,Keve,Pending,57500
+1397,12/2/2027,Nshimiyimana Eric,0794166910,Muhanga,Mirror,Foam,1,25000,Eric,In production,57500
+1398,12/3/2027,Uwamahoro Clarisse,0782308273,Rulindo,Chairs,Varnish,1,15000,Emmanuel,Ready For Derivery,42500
+1399,12/4/2027,Munyaneza Patrick,0782105815,Gicumbi,Dinning table,Screws,1,18000,FISI,Derivered,47000
+1400,12/5/2027,Mukamana Solange,0784576343,Musanze,Wallpaners,Foam,1,39000,Mechack,Installed,78500
+1401,12/6/2027,Hakizimana Emmanuel,0796704199,Huye,Sofa,Screws,1,47000,Elia,Pending,90500
+1402,12/7/2027,Ingabire Josiane,0784649660,Rubavu,Tv stands,Glass(TV Stands,1,37000,Danny,In production,75500
+1403,12/8/2027,Bizimana Claude,0797199290,Nyamata,Office table,Mahogany Wood,1,50000,Keve,Ready For Derivery,95000
+1404,12/9/2027,Umutoni Sandrine,0789614289,Gasabo,Widerobe,Pine Wood,1,16000,Eric,Derivered,44000
+1405,12/10/2027,Ndayisaba Innocent,0798467889,Kicukiro,Kitchen cabinet,Plywood,1,10000,Emmanuel,Installed,35000
+1406,12/11/2027,Uwera Divine,0784948776,Nyarugenge,Mirror,Door Hinges,1,22000,FISI,Pending,53000
+1407,12/12/2027,Mutabazi Olivier,0792505808,Rwamagana,Chairs,Leather (Black),1,43000,Mechack,In production,84500
+1408,12/13/2027,Nyiransabimana Vestine,0782039657,Bugesera,Dinning table,Foam,1,23000,Elia,Ready For Derivery,54500
+1409,12/14/2027,Gasana Thierry,0797576681,Kamonyi,Sofa,Mahogany Wood,1,20000,Danny,Derivered,50000
+1410,12/15/2027,Iradukunda Bella,0788504390,Muhanga,Tv stands,Pine Wood,1,35000,Keve,Installed,72500
+1411,12/16/2027,Byiringiro Fabrice,0793225885,Rulindo,Office table,Plywood,1,10000,Eric,Pending,35000
+1412,12/17/2027,Tuyishime Peace,0785572850,Gicumbi,Widerobe,Door Hinges,1,19000,Emmanuel,In production,48500
+1413,12/18/2027,Manzi Kevin,0784353105,Musanze,Kitchen cabinet,Leather (Black),1,14000,FISI,Ready For Derivery,41000
+1414,12/19/2027,Kamikazi Yvonne,0794392244,Huye,Mirror,Foam,1,12000,Mechack,Derivered,38000
+1415,12/20/2027,Rwibutso Emmanuel,0783866293,Rubavu,Chairs,Varnish,1,36000,Elia,Installed,74000
+1416,12/21/2027,Ishimwe Olivier,0781930613,Nyamata,Dinning table,Screws,1,30000,Danny,Pending,65000
+1417,12/22/2027,Gahigi James,0791643046,Gasabo,Wallpaners,Foam,1,43000,Keve,In production,84500
+1418,12/23/2027,Mukandayisenga Jeannette,0786915854,Kicukiro,Sofa,Screws,1,30000,Eric,Ready For Derivery,65000
+1419,12/24/2027,Ntwari Prince,0792024057,Nyarugenge,Tv stands,Glass(TV Stands,1,40000,Emmanuel,Derivered,80000
+1420,12/25/2027,Kwizera Enock,0792248363,Rwamagana,Office table,Mahogany Wood,1,18000,FISI,Installed,47000
+1421,12/26/2027,Murigo Kelly ,0786235534,Bugesera,Widerobe,Pine Wood,1,43000,Mechack,Pending,84500
+1422,12/27/2027,Uwase Aline,0781448400,Kamonyi,Kitchen cabinet,Plywood,1,28000,Elia,In production,62000
+1423,12/28/2027,Mugisha Jean,0791927466,Muhanga,Mirror,Door Hinges,1,50000,Danny,Ready For Derivery,95000
+1424,12/29/2027,Uwimana Alice,0785698255,Rulindo,Chairs,Leather (Black),1,37000,Keve,Derivered,75500
+1425,12/30/2027,Habimana David,0791631033,Gicumbi,Dinning table,Foam,1,45000,Eric,Installed,87500
+1426,12/31/2027,Ineza Diane,0795657809,Musanze,Sofa,Mahogany Wood,1,44000,Emmanuel,Pending,86000
+1427,1/1/2028,Nshimiyimana Eric,0793664804,Huye,Tv stands,Pine Wood,1,11000,FISI,In production,36500
+1428,1/2/2028,Uwamahoro Clarisse,0796456481,Rubavu,Office table,Plywood,1,36000,Mechack,Ready For Derivery,74000
+1429,1/3/2028,Munyaneza Patrick,0782798349,Nyamata,Widerobe,Door Hinges,1,33000,Elia,Derivered,69500
+1430,1/4/2028,Mukamana Solange,0798159828,Gasabo,Kitchen cabinet,Leather (Black),1,31000,Danny,Installed,66500
+1431,1/5/2028,Hakizimana Emmanuel,0794486268,Kicukiro,Mirror,Foam,1,48000,Keve,Pending,92000
+1432,1/6/2028,Ingabire Josiane,0785656619,Nyarugenge,Chairs,Varnish,1,12000,Eric,In production,38000
+1433,1/7/2028,Bizimana Claude,0784972835,Rwamagana,Dinning table,Screws,1,11000,Emmanuel,Ready For Derivery,36500
+1434,1/8/2028,Umutoni Sandrine,0796281148,Bugesera,Wallpaners,Foam,1,19000,FISI,Derivered,48500
+1435,1/9/2028,Ndayisaba Innocent,0781458354,Kamonyi,Sofa,Screws,1,29000,Mechack,Installed,63500
+1436,1/10/2028,Uwera Divine,0792141199,Muhanga,Tv stands,Glass(TV Stands,1,44000,Elia,Pending,86000
+1437,1/11/2028,Mutabazi Olivier,0789533044,Rulindo,Office table,Mahogany Wood,1,43000,Danny,In production,84500
+1438,1/12/2028,Nyiransabimana Vestine,0799320753,Gicumbi,Widerobe,Pine Wood,1,10000,Keve,Ready For Derivery,35000
+1439,1/13/2028,Gasana Thierry,0785090601,Musanze,Kitchen cabinet,Plywood,1,40000,Eric,Derivered,80000
+1440,1/14/2028,Iradukunda Bella,0782134354,Huye,Mirror,Door Hinges,1,11000,Emmanuel,Installed,36500
+1441,1/15/2028,Byiringiro Fabrice,0799288796,Rubavu,Chairs,Leather (Black),1,37000,FISI,Pending,75500
+1442,1/16/2028,Tuyishime Peace,0783485711,Nyamata,Dinning table,Foam,1,43000,Mechack,In production,84500
+1443,1/17/2028,Manzi Kevin,0798789984,Gasabo,Sofa,Mahogany Wood,1,43000,Elia,Ready For Derivery,84500
+1444,1/18/2028,Kamikazi Yvonne,0798795509,Kicukiro,Tv stands,Pine Wood,1,14000,Danny,Derivered,41000
+1445,1/19/2028,Rwibutso Emmanuel,0798863403,Nyarugenge,Office table,Plywood,1,46000,Keve,Installed,89000
+1446,1/20/2028,Ishimwe Olivier,0781591900,Rwamagana,Widerobe,Door Hinges,1,49000,Eric,Pending,93500
+1447,1/21/2028,Gahigi James,0789508393,Bugesera,Kitchen cabinet,Leather (Black),1,23000,Emmanuel,In production,54500
+1448,1/22/2028,Mukandayisenga Jeannette,0798483011,Kamonyi,Mirror,Foam,1,16000,FISI,Ready For Derivery,44000
+1449,1/23/2028,Ntwari Prince,0799510498,Muhanga,Chairs,Varnish,1,45000,Mechack,Derivered,87500
+1450,1/24/2028,Kwizera Enock,0788066541,Rulindo,Dinning table,Screws,1,48000,Elia,Installed,92000
+1451,1/25/2028,Murigo Kelly ,0794980629,Gicumbi,Wallpaners,Foam,1,21000,Danny,Pending,51500
+1452,1/26/2028,Uwase Aline,0786883644,Musanze,Sofa,Screws,1,24000,Keve,In production,56000
+1453,1/27/2028,Mugisha Jean,0798061878,Huye,Tv stands,Glass(TV Stands,1,36000,Eric,Ready For Derivery,74000
+1454,1/28/2028,Uwimana Alice,0784012254,Rubavu,Office table,Mahogany Wood,1,28000,Emmanuel,Derivered,62000
+1455,1/29/2028,Habimana David,0792511668,Nyamata,Widerobe,Pine Wood,1,38000,FISI,Installed,77000
+1456,1/30/2028,Ineza Diane,0784829720,Gasabo,Kitchen cabinet,Plywood,1,38000,Mechack,Pending,77000
+1457,1/31/2028,Nshimiyimana Eric,0783175401,Kicukiro,Mirror,Door Hinges,1,18000,Elia,In production,47000
+1458,2/1/2028,Uwamahoro Clarisse,0791713223,Nyarugenge,Chairs,Leather (Black),1,19000,Danny,Ready For Derivery,48500
+1459,2/2/2028,Munyaneza Patrick,0793870394,Rwamagana,Dinning table,Foam,1,20000,Keve,Derivered,50000
+1460,2/3/2028,Mukamana Solange,0795937878,Bugesera,Sofa,Mahogany Wood,1,43000,Eric,Installed,84500
+1461,2/4/2028,Hakizimana Emmanuel,0784410779,Kamonyi,Tv stands,Pine Wood,1,48000,Emmanuel,Pending,92000
+1462,2/5/2028,Ingabire Josiane,0795096332,Muhanga,Office table,Plywood,1,50000,FISI,In production,95000
+1463,2/6/2028,Bizimana Claude,0788549404,Rulindo,Widerobe,Door Hinges,1,26000,Mechack,Ready For Derivery,59000
+1464,2/7/2028,Umutoni Sandrine,0784764957,Gicumbi,Kitchen cabinet,Leather (Black),1,21000,Elia,Derivered,51500
+1465,2/8/2028,Ndayisaba Innocent,0785862749,Musanze,Mirror,Foam,1,30000,Danny,Installed,65000
+1466,2/9/2028,Uwera Divine,0789800018,Huye,Chairs,Varnish,1,41000,Keve,Pending,81500
+1467,2/10/2028,Mutabazi Olivier,0789271687,Rubavu,Dinning table,Screws,1,29000,Eric,In production,63500
+1468,2/11/2028,Nyiransabimana Vestine,0791275770,Nyamata,Wallpaners,Foam,1,31000,Emmanuel,Ready For Derivery,66500
+1469,2/12/2028,Gasana Thierry,0781637216,Gasabo,Sofa,Screws,1,15000,FISI,Derivered,42500
+1470,2/13/2028,Iradukunda Bella,0786427721,Kicukiro,Tv stands,Glass(TV Stands,1,45000,Mechack,Installed,87500
+1471,2/14/2028,Byiringiro Fabrice,0796139681,Nyarugenge,Office table,Mahogany Wood,1,26000,Elia,Pending,59000
+1472,2/15/2028,Tuyishime Peace,0792900395,Rwamagana,Widerobe,Pine Wood,1,31000,Danny,In production,66500
+1473,2/16/2028,Manzi Kevin,0788304375,Bugesera,Kitchen cabinet,Plywood,1,43000,Keve,Ready For Derivery,84500
+1474,2/17/2028,Kamikazi Yvonne,0798196193,Kamonyi,Mirror,Door Hinges,1,17000,Eric,Derivered,45500
+1475,2/18/2028,Rwibutso Emmanuel,0798428629,Muhanga,Chairs,Leather (Black),1,34000,Emmanuel,Installed,71000
+1476,2/19/2028,Ishimwe Olivier,0791302064,Rulindo,Dinning table,Foam,1,35000,FISI,Pending,72500
+1477,2/20/2028,Gahigi James,0795720768,Gicumbi,Sofa,Mahogany Wood,1,12000,Mechack,In production,38000
+1478,2/21/2028,Mukandayisenga Jeannette,0795912417,Musanze,Tv stands,Pine Wood,1,25000,Elia,Ready For Derivery,57500
+1479,2/22/2028,Ntwari Prince,0782032964,Huye,Office table,Plywood,1,38000,Danny,Derivered,77000
+1480,2/23/2028,Kwizera Enock,0799120927,Rubavu,Widerobe,Door Hinges,1,28000,Keve,Installed,62000
+1481,2/24/2028,Murigo Kelly ,0783806118,Nyamata,Kitchen cabinet,Leather (Black),1,35000,Eric,Pending,72500
+1482,2/25/2028,Uwase Aline,0794550308,Gasabo,Mirror,Foam,1,10000,Emmanuel,In production,35000
+1483,2/26/2028,Mugisha Jean,0787357047,Kicukiro,Chairs,Varnish,1,26000,FISI,Ready For Derivery,59000
+1484,2/27/2028,Uwimana Alice,0792852793,Nyarugenge,Dinning table,Screws,1,41000,Mechack,Derivered,81500
+1485,2/28/2028,Habimana David,0792212134,Rwamagana,Wallpaners,Foam,1,10000,Elia,Installed,35000
+1486,2/29/2028,Ineza Diane,0798360464,Bugesera,Sofa,Screws,1,38000,Danny,Pending,77000
+1487,3/1/2028,Nshimiyimana Eric,0785155577,Kamonyi,Tv stands,Glass(TV Stands,1,39000,Keve,In production,78500
+1488,3/2/2028,Uwamahoro Clarisse,0799111044,Muhanga,Office table,Mahogany Wood,1,31000,Eric,Ready For Derivery,66500
+1489,3/3/2028,Munyaneza Patrick,0786851255,Rulindo,Widerobe,Pine Wood,1,26000,Emmanuel,Derivered,59000
+1490,3/4/2028,Mukamana Solange,0796674349,Gicumbi,Kitchen cabinet,Plywood,1,30000,FISI,Installed,65000
+1491,3/5/2028,Hakizimana Emmanuel,0783401576,Musanze,Mirror,Door Hinges,1,33000,Mechack,Pending,69500
+1492,3/6/2028,Ingabire Josiane,0795341259,Huye,Chairs,Leather (Black),1,49000,Elia,In production,93500
+1493,3/7/2028,Bizimana Claude,0781070507,Rubavu,Dinning table,Foam,1,30000,Danny,Ready For Derivery,65000
+1494,3/8/2028,Umutoni Sandrine,0792119790,Nyamata,Sofa,Mahogany Wood,1,19000,Keve,Derivered,48500
+1495,3/9/2028,Ndayisaba Innocent,0785198125,Gasabo,Tv stands,Pine Wood,1,31000,Eric,Installed,66500
+1496,3/10/2028,Uwera Divine,0793190553,Kicukiro,Office table,Plywood,1,49000,Emmanuel,Pending,93500
+1497,3/11/2028,Mutabazi Olivier,0795201271,Nyarugenge,Widerobe,Door Hinges,1,19000,FISI,In production,48500
+1498,3/12/2028,Nyiransabimana Vestine,0797521810,Rwamagana,Kitchen cabinet,Leather (Black),1,36000,Mechack,Ready For Derivery,74000
+1499,3/13/2028,Gasana Thierry,0799373719,Bugesera,Mirror,Foam,1,41000,Elia,Derivered,81500
+1500,3/14/2028,Iradukunda Bella,0783348190,Kamonyi,Chairs,Varnish,1,19000,Danny,Installed,48500
+1501,3/15/2028,Byiringiro Fabrice,0797739361,Muhanga,Dinning table,Screws,1,27000,Keve,Pending,60500
